@@ -1,0 +1,96 @@
+body {
+  background-image: url(https://celes.club/uploads/posts/2022-05/thumbs/1653337407_29-celes-club-p-belii-myatii-fon-krasivie-32.jpg);
+  background-size: 100%;
+}
+
+h1 {
+  color: grey;
+  font-size: 20px;
+  font-weight: 300;
+  text-align: center;
+}
+h2 {
+  color: #092a35;
+  text-align: center;
+  font-size: 15px;
+  font-weight: 100;
+}
+ul {
+  list-style-type: none;
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+}
+li {
+  display: inline;
+  margin: 0 15px;
+}
+a {
+  color: #697c37;
+  font-weight: bold;
+}
+a:hover {
+  text-decoration: underline;
+}
+button {
+  padding: 15px 20px;
+  color: #092a35;
+  display: block;
+  text-decoration: none;
+  font-size: 16px;
+  border-radius: 40px;
+  margin: 30px auto;
+  border: 1px solid #697c37;
+  background: #f2f299;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+  transition: all 200ms ease-in-out;
+}
+button:hover {
+  background: #697c37;
+  color: white;
+  cursor: pointer;
+}
+.workshops {
+  color: #697c37;
+  font-size: 30px;
+  text-decoration: none;
+}
+.lieblingswerke {
+  color: #697c37;
+  font-size: 30px;
+  text-decoration: none;
+}
+.bilder {
+  color: #697c37;
+  font-size: 30px;
+  text-decoration: none;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  border-radius: 2%;
+  width: 300px;
+}
+div {
+  margin: 30px;
+  text-align: center;
+  font-weight: thin;
+}
+.email {
+  color: #697c37;
+  font-weight: bold;
+}
+h3 {
+  color: grey;
+  text-align: center;
+  font-size: 20px;
+  margin: 30px;
+  padding: 15px 20px;
+  display: block;
+}
+.Text {
+  color: #092a35;
+  font-size: 15px;
+  margin: 15px;
+  text-align: center;
+}
